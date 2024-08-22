@@ -2,7 +2,7 @@
 
 This project is an AI-powered query answering system that retrieves relevant information from a PostgreSQL database, integrates it into the context of a user's query, and generates a response using OpenAI's GPT-3.5-turbo model. The project also includes a Gradio web interface for easy interaction.
 
-![Interface Screenshot](Capture.png)
+![Interface Screenshot](/Capture.PNG)
 
 ## Features
 
